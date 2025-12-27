@@ -14,7 +14,10 @@ The focus is on building strong fundamentals through hands-on coding and problem
 
 ## Repository structure
 
-python-core/ │ ├── python_fundamentals/ │   ├── variables/ │   ├── data_types/ │   ├── operators/ │   ├── control_flow/ │   ├── functions/ │   └── oops/ │ ├── python_core/ │   ├── file_handling/ │   ├── exception_handling/ │   └── modules_packages/ │ ├── numpy/ │   ├── array_creation/ │   ├── array_properties/ │   ├── array_indexing/ │   └── array_operations/ │ ├── pandas/ │   ├── series/ │   ├── dataframes/ │   ├── data_cleaning/ │   └── data_analysis/ │ ├── matplotlib/ │   ├── basic_plots/ │   ├── customization/ │   └── visual_examples/ │ ├── seaborn/ │   ├── statistical_plots/ │   ├── categorical_plots/ │   └── regression_plots/ │ └── practice_questions/ ├── beginner/ ├── intermediate/ └── advanced/
+Python-core/
+numpy/
+pandas/
+practice_questions/
 
 ## Notes
 - Each folder contains topic-wise Python scripts and examples.
